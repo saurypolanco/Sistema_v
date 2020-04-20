@@ -6,13 +6,13 @@ La base de datos se ejecutara en un gestor mysql que se integra al servidor xamp
 
 Se debe proceder a instalar este servidor Xamp.
 
-Luego de queda instalado damos clic en el boton star refiriendose a la opcion mysql de la pantalla principal del servidor.
+Luego de queda instalado damos clic en el boton start refiriendose a la opcion mysql de la pantalla principal del servidor.
 
 Una vez este inicie se procede a ir a google y escribir localhost 
 
 luego seleccionar la opcion de phpmyadmin y hay tendremos el gestor de la base de datos.
 
-en esta crearemos una nueva pase de datos y despues se pulsa el boton de importar y en la base de datos seleccionamos el archivo
+en esta crearemos una nueva pase de datos llamada 'reparacion' y despues se pulsa el boton de importar y en la base de datos seleccionamos el archivo
 de la base de datos  que ejecutaremos para el proyecto.
 
 Cuando todo esto carge ya tendremos la base de datos lista.
